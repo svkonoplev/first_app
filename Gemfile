@@ -5,15 +5,9 @@ gem 'rails', '3.2.13'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-<<<<<<< HEAD
 group :development do
    gem 'sqlite3', '1.3.5'
-=======
-# gem 'sqlite3'
 
-group :development do
-  gem 'sqlite3', '1.3.5'
->>>>>>> 1b236d1dcae9ee2750792f0d11f179c9f1e7044f
 end
 
 # Gems used only for assets and not required
